@@ -1,5 +1,9 @@
 # Industry
 
+- [qubit-types.md](qubit-types.md) — how the main qubit technologies compare
+- [timeline.md](timeline.md) — major milestones in the field
+- [hardware-access.md](hardware-access.md) — where you can run code on real quantum computers
+
 The leading companies in quantum computing, grouped by the kind of qubit they build.
 
 ## Superconducting qubits
